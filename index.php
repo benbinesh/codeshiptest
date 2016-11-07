@@ -1,4 +1,4 @@
 <?php 
-	echo "It Works! Testing Codeshi";
+	echo "It Works! Testing Codeship";
 		
 ?>
